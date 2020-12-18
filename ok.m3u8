@@ -467,8 +467,8 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/3vDSskn/net-tv.png"group-title="LOKAL",BLOOMBERG
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/pJvYPkp/playlist.png" tvg-name="t.me/KocengTV"  group-title="SPORTS",t.me/KocengTV
-http://c0day.my.id/shinta_play.m3u8?shinta=JanganDiRestream!&coday=AUZlZmZ0pwMhAGAhpJ40omHmZwD0AmMhBQDkZGSmZwRhrwAbBN==&log=LKWaM2x=
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/pJvYPkp/playlist.png" tvg-name="t.me/KocengTV"  group-title="SPORTS", TES
+https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.ibb.co/kJN23Cv/champions1.png" tvg-name="Champions tv 1"  group-title="SPORTS",Champions tv 1
 https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
